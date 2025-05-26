@@ -55,6 +55,17 @@ Projeyi kullanabilmek için Microsoft SQL Server üzerinde **Northwind** veritab
 
 ---
 
+## 🗺️ Veritabanı Diyagramı
+
+Northwind veritabanının tablo yapısı ve ilişkilerini incelemek için Microsoft tarafından hazırlanan resmi diyagramı kullanabilirsiniz:
+
+🔗 [Northwind Database Diagram – Microsoft Support](https://support.microsoft.com/en-us/office/northwind-database-diagram-cd422d47-e4e3-4819-8100-cdae6aaa0857)
+
+> Bu şema, tablo ilişkilerini anlamak ve SQL sorgularınızı doğru tablolara yönlendirebilmek için oldukça faydalıdır.
+
+---
+
+
 ## 📩 İletişim
 
 Her türlü görüş, katkı ya da destek için:  
