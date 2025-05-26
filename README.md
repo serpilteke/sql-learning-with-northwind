@@ -10,14 +10,12 @@ Gerçek veriye dayalı uygulamalarla, sorguların nasıl çalıştığını prat
 ## 📚 Neden Northwind?
 
 Northwind, küçük bir ticaret firmasını temsil eden örnek bir veritabanıdır. İçinde:
-🛍️ Ürünler 
-📦 Siparişler
-🗂️ Kategoriler 
-👥 Müşteriler 
-👩‍💼 Çalışanlar 
-
-gibi pek çok gerçek hayat verisi barındırır.  
-Bu sayede sadece teori değil, uygulamaya dönük düşünmeyi de sağlar.
+- Ürünler 🛍️  
+- Siparişler 📦  
+- Kategoriler 🗂️  
+- Müşteriler 👥  
+- Çalışanlar 👩‍💼
+gibi pek çok gerçek hayat verisi barındırır.  Bu sayede sadece teori değil, uygulamaya dönük düşünmeyi de sağlar.
 
 ---
 
