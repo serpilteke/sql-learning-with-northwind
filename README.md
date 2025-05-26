@@ -15,9 +15,9 @@ Northwind, küçük bir ticaret firmasını temsil eden örnek bir veritabanıd�
 - Kategoriler 🗂️
 - Müşteriler 👥
 - Çalışanlar 👩‍💼
-
-gibi pek çok gerçek hayat verisi barındırır.  
-Bu sayede sadece teori değil, uygulamaya dönük düşünmeyi de sağlar.
+  
+  gibi pek çok gerçek hayat verisi barındırır.
+  Bu sayede sadece teori değil, uygulamaya dönük düşünmeyi de sağlar.
 ---
 
 ## 🎯 Amaç
